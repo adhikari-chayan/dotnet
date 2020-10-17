@@ -1,0 +1,14 @@
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\bin\Debug\PublishSubscribe_Publisher.exe.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\bin\Debug\PublishSubscribe_Publisher.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\bin\Debug\PublishSubscribe_Publisher.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\bin\Debug\Common.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\bin\Debug\RabbitMQ.Client.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\bin\Debug\Newtonsoft.Json.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\bin\Debug\Common.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\bin\Debug\Common.dll.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\bin\Debug\RabbitMQ.Client.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\bin\Debug\Newtonsoft.Json.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\obj\Debug\PublishSubscribe_Publisher.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\obj\Debug\PublishSubscribe_Publisher.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\obj\Debug\PublishSubscribe_Publisher.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Publisher\obj\Debug\PublishSubscribe_Publisher.pdb

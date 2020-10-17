@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\bin\Debug\PublishSubscribe_Subscriber.exe.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\bin\Debug\PublishSubscribe_Subscriber.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\bin\Debug\PublishSubscribe_Subscriber.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\bin\Debug\Common.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\bin\Debug\RabbitMQ.Client.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\bin\Debug\Newtonsoft.Json.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\bin\Debug\Common.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\bin\Debug\Common.dll.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\bin\Debug\RabbitMQ.Client.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\bin\Debug\Newtonsoft.Json.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\PublishSubscribe_Subscriber\obj\Debug\PublishSubscribe_Subscriber.pdb

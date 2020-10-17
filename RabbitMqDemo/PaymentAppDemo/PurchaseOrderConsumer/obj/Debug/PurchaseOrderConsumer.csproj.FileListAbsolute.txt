@@ -1,0 +1,12 @@
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\bin\Debug\PurchaseOrderConsumer.exe.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\bin\Debug\PurchaseOrderConsumer.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\bin\Debug\PurchaseOrderConsumer.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\bin\Debug\RabbitMQ.Client.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\bin\Debug\RabbitMQ.Client.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\obj\Debug\PurchaseOrderConsumer.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\obj\Debug\PurchaseOrderConsumer.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\obj\Debug\PurchaseOrderConsumer.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\obj\Debug\PurchaseOrderConsumer.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PurchaseOrderConsumer\obj\Debug\PurchaseOrderConsumer.pdb

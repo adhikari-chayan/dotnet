@@ -1,0 +1,15 @@
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\bin\Debug\StandardQueue.exe.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\bin\Debug\StandardQueue.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\bin\Debug\StandardQueue.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\bin\Debug\Common.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\bin\Debug\RabbitMQ.Client.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\bin\Debug\Newtonsoft.Json.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\bin\Debug\Common.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\bin\Debug\Common.dll.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\bin\Debug\RabbitMQ.Client.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\bin\Debug\Newtonsoft.Json.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\obj\Debug\StandardQueue.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\obj\Debug\StandardQueue.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\obj\Debug\StandardQueue.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\obj\Debug\StandardQueue.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\StandardQueue\obj\Debug\StandardQueue.pdb

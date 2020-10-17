@@ -1,0 +1,14 @@
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\bin\Debug\WorkerQueue_Consumer.exe.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\bin\Debug\WorkerQueue_Consumer.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\bin\Debug\WorkerQueue_Consumer.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\bin\Debug\Common.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\bin\Debug\RabbitMQ.Client.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\bin\Debug\Newtonsoft.Json.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\bin\Debug\Common.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\bin\Debug\Common.dll.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\bin\Debug\RabbitMQ.Client.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\bin\Debug\Newtonsoft.Json.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\obj\Debug\WorkerQueue_Consumer.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\obj\Debug\WorkerQueue_Consumer.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\obj\Debug\WorkerQueue_Consumer.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\rabbitmq-by-example\WorkerQueue_Consumer\obj\Debug\WorkerQueue_Consumer.pdb

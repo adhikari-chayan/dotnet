@@ -1,0 +1,12 @@
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\bin\Debug\AccountsAuditConsumer.exe.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\bin\Debug\AccountsAuditConsumer.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\bin\Debug\AccountsAuditConsumer.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\bin\Debug\RabbitMQ.Client.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\bin\Debug\RabbitMQ.Client.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\obj\Debug\AccountsAuditConsumer.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\obj\Debug\AccountsAuditConsumer.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\obj\Debug\AccountsAuditConsumer.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\obj\Debug\AccountsAuditConsumer.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\AccountsAuditConsumer\obj\Debug\AccountsAuditConsumer.pdb

@@ -1,0 +1,12 @@
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\bin\Debug\PaymentCardConsumer.exe.config
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\bin\Debug\PaymentCardConsumer.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\bin\Debug\PaymentCardConsumer.pdb
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\bin\Debug\RabbitMQ.Client.dll
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\bin\Debug\RabbitMQ.Client.xml
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\obj\Debug\PaymentCardConsumer.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\obj\Debug\PaymentCardConsumer.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\obj\Debug\PaymentCardConsumer.csproj.CopyComplete
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\obj\Debug\PaymentCardConsumer.exe
+C:\MyStuff\Practice Projects\dotnet\RabbitMqDemo\PaymentAppDemo\PaymentCardConsumer\obj\Debug\PaymentCardConsumer.pdb
