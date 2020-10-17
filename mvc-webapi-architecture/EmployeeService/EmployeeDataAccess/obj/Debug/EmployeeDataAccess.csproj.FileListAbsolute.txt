@@ -1,0 +1,11 @@
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\My Stuff\Practise Projects\Kudvenkat\WebAPI\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb

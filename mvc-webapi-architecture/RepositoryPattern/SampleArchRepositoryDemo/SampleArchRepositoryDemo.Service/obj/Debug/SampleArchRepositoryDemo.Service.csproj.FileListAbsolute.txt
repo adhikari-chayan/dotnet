@@ -1,0 +1,14 @@
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\bin\Debug\SampleArchRepositoryDemo.Service.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\bin\Debug\SampleArchRepositoryDemo.Service.pdb
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\bin\Debug\SampleArchRepositoryDemo.Model.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\bin\Debug\SampleArchRepositoryDemo.Repository.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\bin\Debug\EntityFramework.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\bin\Debug\SampleArchRepositoryDemo.Model.pdb
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\bin\Debug\SampleArchRepositoryDemo.Model.dll.config
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\bin\Debug\SampleArchRepositoryDemo.Repository.pdb
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\bin\Debug\SampleArchRepositoryDemo.Repository.dll.config
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\bin\Debug\EntityFramework.xml
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\obj\Debug\SampleArchRepositoryDemo.Service.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\obj\Debug\SampleArchRepositoryDemo.Service.csproj.CopyComplete
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\obj\Debug\SampleArchRepositoryDemo.Service.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Service\obj\Debug\SampleArchRepositoryDemo.Service.pdb

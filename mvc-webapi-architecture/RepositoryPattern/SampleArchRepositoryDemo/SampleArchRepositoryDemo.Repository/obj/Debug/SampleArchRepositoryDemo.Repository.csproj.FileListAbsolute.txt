@@ -1,0 +1,14 @@
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\bin\Debug\SampleArchRepositoryDemo.Repository.dll.config
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\bin\Debug\SampleArchRepositoryDemo.Repository.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\bin\Debug\SampleArchRepositoryDemo.Repository.pdb
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\bin\Debug\EntityFramework.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\bin\Debug\SampleArchRepositoryDemo.Model.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\bin\Debug\SampleArchRepositoryDemo.Model.pdb
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\bin\Debug\SampleArchRepositoryDemo.Model.dll.config
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\bin\Debug\EntityFramework.xml
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\obj\Debug\SampleArchRepositoryDemo.Repository.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\obj\Debug\SampleArchRepositoryDemo.Repository.csproj.CopyComplete
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\obj\Debug\SampleArchRepositoryDemo.Repository.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Repository\obj\Debug\SampleArchRepositoryDemo.Repository.pdb

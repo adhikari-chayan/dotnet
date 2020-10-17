@@ -1,0 +1,11 @@
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\bin\Debug\SampleArchRepositoryDemo.Model.dll.config
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\bin\Debug\SampleArchRepositoryDemo.Model.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\bin\Debug\SampleArchRepositoryDemo.Model.pdb
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\bin\Debug\EntityFramework.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\bin\Debug\EntityFramework.xml
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\obj\Debug\SampleArchRepositoryDemo.Model.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\obj\Debug\SampleArchRepositoryDemo.Model.csproj.CopyComplete
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\obj\Debug\SampleArchRepositoryDemo.Model.dll
+C:\My Stuff\Practise Projects\RepositoryPattern\SampleArchRepositoryDemo\SampleArchRepositoryDemo.Model\obj\Debug\SampleArchRepositoryDemo.Model.pdb
