@@ -1,0 +1,5 @@
+C:\MyStuff\Practice Projects\dotnet\AdvancedCollections\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.dll
+C:\MyStuff\Practice Projects\dotnet\AdvancedCollections\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.pdb
+C:\MyStuff\Practice Projects\dotnet\AdvancedCollections\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\AdvancedCollections\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.dll
+C:\MyStuff\Practice Projects\dotnet\AdvancedCollections\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.pdb
