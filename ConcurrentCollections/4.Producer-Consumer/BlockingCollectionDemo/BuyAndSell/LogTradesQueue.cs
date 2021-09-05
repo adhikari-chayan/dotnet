@@ -18,21 +18,11 @@ namespace Pluralsight.ConcurrentCollections.BuyAndSell
 
 		public void MonitorAndLogTrades()
 		{
-			while (true)
-			{
-				try
-				{
-					Trade nextTrade = _tradesToLog.Take();
-					_staffLogs.LogTrade(nextTrade);
-                    Console.WriteLine($"Processing transaction from {nextTrade.Person.Name}");
-				}
-				catch(InvalidOperationException ex)
-                {
-                    Console.WriteLine(ex.Message);
-					return;
-                }
-				
-			}
+			foreach(var nextTrade in _tradesToLog.GetConsumingEnumerable())
+            {
+				_staffLogs.LogTrade(nextTrade);
+                Console.WriteLine($"Processing transaction from {nextTrade.Person.Name}");
+            }
 		}
 	}
 }
