@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\bin\Debug\netcoreapp3.1\SubmitOrders.exe
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\bin\Debug\netcoreapp3.1\SubmitOrders.deps.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\bin\Debug\netcoreapp3.1\SubmitOrders.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\bin\Debug\netcoreapp3.1\SubmitOrders.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\bin\Debug\netcoreapp3.1\SubmitOrders.dll
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\bin\Debug\netcoreapp3.1\SubmitOrders.pdb
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\obj\Debug\netcoreapp3.1\SubmitOrders.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\obj\Debug\netcoreapp3.1\SubmitOrders.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\obj\Debug\netcoreapp3.1\SubmitOrders.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\obj\Debug\netcoreapp3.1\SubmitOrders.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\obj\Debug\netcoreapp3.1\SubmitOrders.dll
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\obj\Debug\netcoreapp3.1\SubmitOrders.pdb
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\SubmitOrders\obj\Debug\netcoreapp3.1\SubmitOrders.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.exe
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.deps.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.dll
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.pdb
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.dll
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.pdb
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\ConcurrentDictionary\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.genruntimeconfig.cache

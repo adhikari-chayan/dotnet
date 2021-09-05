@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\bin\Debug\netcoreapp3.1\BuyAndSell.exe
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\bin\Debug\netcoreapp3.1\BuyAndSell.deps.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\bin\Debug\netcoreapp3.1\BuyAndSell.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\bin\Debug\netcoreapp3.1\BuyAndSell.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\bin\Debug\netcoreapp3.1\BuyAndSell.dll
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\bin\Debug\netcoreapp3.1\BuyAndSell.pdb
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\obj\Debug\netcoreapp3.1\BuyAndSell.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\obj\Debug\netcoreapp3.1\BuyAndSell.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\obj\Debug\netcoreapp3.1\BuyAndSell.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\obj\Debug\netcoreapp3.1\BuyAndSell.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\obj\Debug\netcoreapp3.1\BuyAndSell.dll
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\obj\Debug\netcoreapp3.1\BuyAndSell.pdb
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\Producer-Consumer\BuyAndSell\obj\Debug\netcoreapp3.1\BuyAndSell.genruntimeconfig.cache
