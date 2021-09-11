@@ -1,0 +1,13 @@
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\bin\Debug\netcoreapp3.1\EnumerateDictionary.exe
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\bin\Debug\netcoreapp3.1\EnumerateDictionary.deps.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\bin\Debug\netcoreapp3.1\EnumerateDictionary.runtimeconfig.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\bin\Debug\netcoreapp3.1\EnumerateDictionary.runtimeconfig.dev.json
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\bin\Debug\netcoreapp3.1\EnumerateDictionary.dll
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\bin\Debug\netcoreapp3.1\EnumerateDictionary.pdb
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\obj\Debug\netcoreapp3.1\EnumerateDictionary.csprojAssemblyReference.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\obj\Debug\netcoreapp3.1\EnumerateDictionary.AssemblyInfoInputs.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\obj\Debug\netcoreapp3.1\EnumerateDictionary.AssemblyInfo.cs
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\obj\Debug\netcoreapp3.1\EnumerateDictionary.csproj.CoreCompileInputs.cache
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\obj\Debug\netcoreapp3.1\EnumerateDictionary.dll
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\obj\Debug\netcoreapp3.1\EnumerateDictionary.pdb
+C:\MyStuff\Practice Projects\dotnet\ConcurrentCollections\6.Enumerate\EnumerateDictionary\obj\Debug\netcoreapp3.1\EnumerateDictionary.genruntimeconfig.cache
